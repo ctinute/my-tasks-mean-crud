@@ -14,3 +14,4 @@
 - `npm install`
 - `ng build`
 - `npm start`
+- head to http://localhost:3000 to test the app
